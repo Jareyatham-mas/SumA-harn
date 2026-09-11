@@ -112,7 +112,7 @@ Open index.html in your browser
 
 ## Author
 
-Jareyatham (Men Swa)
+Jareyatham
 Computer Science and Software Innovation
 
 ---
